@@ -1,4 +1,9 @@
-  
+
+
+  section {
+    background-color: #fff;
+  }
+
   body {
     font-family: 'Catamaran', sans-serif;
     line-height: 1.6;
@@ -38,7 +43,9 @@
   }
   
   .section-a h1 {
-    font-size: 4rem;
+    font-family: "CircularStd-Black";
+    text-transform: uppercase;
+    font-size: 3rem;
     color: var(--primary-color);
   }
   
@@ -56,6 +63,11 @@
     cursor: pointer;
     font-size: 1.1rem;
     border-radius: 30px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background-color: blue;
   }
   
 

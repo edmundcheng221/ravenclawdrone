@@ -1,3 +1,29 @@
+#body {
+    background-color: lightgrey;
+}
+
 .contact {
+    font-family: "CircularStd-Black";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 63px;
+    text-transform: uppercase;
+    color: #010101;
     text-align: center;
+}
+
+#text {
+    font-family: "CircularStd-Black";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 63px;
+    text-transform: uppercase;
+    color: #010101;
+    text-align: center;
+}
+
+#caption {
+    font-family: "CircularStd-Black";
 }

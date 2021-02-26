@@ -4,11 +4,16 @@ import './Contact.css'
 class Contact extends Component {
     render(){
         return(
-            <div className="contact">
-                <h1>Contact Us</h1>
-                <br></br>
-                <p>Please reach out at ec3219@nyu.edu</p>
-            </div>
+            <section id="body">
+                <div className="contact">
+                    <br></br>
+                    <h1 id="caption">Contact Us</h1>
+                    <p id="text">Please reach out to ec3219@nyu.edu</p>
+                    <br></br>
+                    
+                </div>
+                
+            </section>
 
         )
 

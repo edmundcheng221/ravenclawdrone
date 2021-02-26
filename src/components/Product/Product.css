@@ -1,0 +1,35 @@
+.productclass {
+    background-color: lightgrey;
+}
+
+li {
+    margin: 5%;
+    font-family: "CircularStd-Black";
+    font-size: 25px;
+}
+
+
+#gripper {
+    width: 800px;
+    height: 400px;
+}
+
+.productheading {
+    font-family: "CircularStd-Black";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    text-transform: uppercase;
+    color: #010101;
+    text-align: center;
+}
+
+#image {
+    width: 500px;
+}
+
+#productkeyfeatures {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}

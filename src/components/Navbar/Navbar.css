@@ -8,6 +8,7 @@
 }
 
 .navbar-logo {
+    font-family: "CircularStd-Black";
     color: #fff;
     justify-self: start;
     margin-left: 20px;
@@ -32,6 +33,7 @@
 
 .nav-links {
     color: white;
+    font-family: "CircularStd-Black";
     text-decoration: none;
     padding: 0.5rem 1rem;
 }

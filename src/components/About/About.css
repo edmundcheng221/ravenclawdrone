@@ -1,0 +1,36 @@
+#section {
+    background-color: #fff;
+}
+
+.Heading {
+    font-family: "CircularStd-Black";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 63px;
+    text-transform: uppercase;
+    color: #010101;
+}
+
+#employee {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+#team {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    justify-content: center;
+    gap: 50px;
+}
+
+.contact {
+    margin: 5%;
+}
+
+.caption {
+    font-size: 18px;
+    font-family: "CircularStd-Black";
+}

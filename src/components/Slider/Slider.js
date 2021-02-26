@@ -18,7 +18,10 @@ class Slider extends Component {
                     </div>
                     <img src={require('../img/drone.png')}></img>
                 </div>
+                <br></br>
+                <br></br>
             </section>
+       
 
         )
 

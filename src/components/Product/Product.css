@@ -3,11 +3,15 @@
 }
 
 li {
-    margin: 5%;
+    width: 100%;
     font-family: "CircularStd-Black";
     font-size: 25px;
+    text-align: center;
 }
 
+#encapsulate {
+    text-align: center;
+}
 
 #gripper {
     width: 800px;

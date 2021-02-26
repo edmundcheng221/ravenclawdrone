@@ -10,14 +10,15 @@ class Product extends Component {
                 <h1 className="productheading">Key Features of Contactless Delivery Drone</h1>
                 <br></br>
                 <div id="productkeyfeatures">
-                    <div>
+                    <div id="encapsulate">
                         <li>Drone made out of carbon fiber</li>
                         <li>Soft Robotic gripper made from ecoflex</li>
                         <li>Actuated channels allow for the gripping of objects</li>
-                    </div>
-                    <div>
                         <img id="image" src={require('../img/layoutGripper.png')}></img>
                     </div>
+                    {/* <div>
+                        
+                    </div> */}
                 </div>
                 <br></br>
 

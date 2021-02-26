@@ -5,7 +5,7 @@ class Product extends Component {
     render(){
         return(
 
-            <section className="productclass">
+            <section className="productclass" id="productclass">
                 <br></br>
                 <h1 className="productheading">Key Features of Contactless Delivery Drone</h1>
                 <br></br>

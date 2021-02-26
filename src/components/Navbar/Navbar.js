@@ -12,7 +12,7 @@ class Navbar extends Component {
     render(){
         return(
             <nav className="NavbarItems">
-                <h1 className="navbar-logo">Raven Claw</h1>
+                <a href="#section-a" id="headerlink"><h1 className="navbar-logo">Raven Claw</h1></a>
                 <div className="menu-icon" onClick={this.handleClick}>
                     <i className={this.state.clicked ? 'fas fa-times': 'fas fa-bars'}></i>
                 </div>

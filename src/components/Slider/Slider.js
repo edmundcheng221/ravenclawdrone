@@ -5,7 +5,7 @@ class Slider extends Component {
     render(){
         return(
 
-            <section class="section-a">
+            <section class="section-a" id="section-a">
                 <div class="container">
                     <div>
                         <h1>Contactless Delivery Drone</h1>

@@ -13,7 +13,7 @@ class Footer extends Component {
                 </div>
                 <br></br>
                 <div id="footercaption">
-                    <p>@ Copyright 2021 Raven Claw Corporation | <a id="link" href="#">Privacy Policy</a> | <a id="link" href="#">Contact</a></p>
+                    <p>@ Copyright 2021 Raven Claw Corporation</p>
                 </div>
                 <br></br>
 

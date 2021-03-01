@@ -11,27 +11,39 @@ class About extends Component {
                     <div id="team">
                         <div>
                             <img id="employee" src={require('../img/edmund.png')}></img>
-                            <p className="caption">Edmund Cheng, B.S. Mechanical Engineering</p>
+                            <p className="caption">Ashton Chan</p>
+                            <p className="caption">FEA Analyst</p>
+                            <p className="caption">B.S. Mechanical Engineering</p>
                         </div>
                         <div>
                             <img id="employee" src={require('../img/edmund.png')}></img>
-                            <p className="caption">Edmund Cheng, B.S. Mechanical Engineering</p>
+                            <p className="caption">Edmund Cheng</p>
+                            <p className="caption">Software & Design Engineer</p>
+                            <p className="caption">B.S. Mechanical Engineering</p>
                         </div>
                         <div>
                             <img id="employee" src={require('../img/edmund.png')}></img>
-                            <p className="caption">Edmund Cheng, B.S. Mechanical Engineering</p>
+                            <p className="caption">Emma Rock</p>
+                            <p className="caption">Project Manager</p>
+                            <p className="caption">B.S. Mechanical Engineering</p>
                         </div>
                         <div>
                             <img id="employee" src={require('../img/edmund.png')}></img>
-                            <p className="caption">Edmund Cheng, B.S. Mechanical Engineering</p>
+                            <p className="caption">Jeffrey Virula-Garcia</p>
+                            <p className="caption">Lead Engineer</p>
+                            <p className="caption">B.S. Mechanical Engineering</p>
                         </div>
                         <div>
                             <img id="employee" src={require('../img/edmund.png')}></img>
-                            <p className="caption">Edmund Cheng, B.S. Mechanical Engineering</p>
+                            <p className="caption">Jonathan Reyes</p>
+                            <p className="caption">Research Engineer</p>
+                            <p className="caption">B.S. Mechanical Engineering</p>
                         </div>
                         <div>
                             <img id="employee" src={require('../img/edmund.png')}></img>
-                            <p className="caption">Edmund Cheng, B.S. Mechanical Engineering</p>
+                            <p className="caption">Winnie Tsui</p>
+                            <p className="caption">Design Engineer</p>
+                            <p className="caption">B.S. Mechanical Engineering</p>
                         </div>
                     </div>
                     <br></br>

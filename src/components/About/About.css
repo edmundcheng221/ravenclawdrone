@@ -10,6 +10,7 @@
     line-height: 63px;
     text-transform: uppercase;
     color: #010101;
+    text-align: center;
 }
 
 #employee {
@@ -24,6 +25,7 @@
     justify-content: space-between;
     justify-content: center;
     gap: 50px;
+    text-align: center;
 }
 
 .contact {

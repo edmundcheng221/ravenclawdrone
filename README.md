@@ -1,4 +1,4 @@
-View my deployed web app [here](https://react-docker-zyggff3z6a-ue.a.run.app/)
+View my deployed web app [here](http://ravenclawdrone.herokuapp.com/). It was initially deployed to GCP but got too expensive so I decided to switch to heroku to save €€€.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 

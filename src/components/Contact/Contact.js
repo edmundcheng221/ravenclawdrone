@@ -11,21 +11,22 @@ class Contact extends Component {
 
                     <div class="wrapper">
                         <div id="error_message"></div>
-                        <form id="myform">
+                        <form id="myform" action="https://formsubmit.co/ec3219@nyu.edu" method="POST">
                             <div class="input_field">
-                                <input type="text" placeholder="Name" id="name"></input>
+                                {/* <input type="text" placeholder="Name" id="name"></input> */}
+                                <input type="text" name="name" placeholder="Name" id="name" required></input>
                             </div>
                             <div class="input_field">
-                                <input type="text" placeholder="Subject" id="subject"></input>
+                                <input type="text" placeholder="Subject" id="subject" required></input>
                             </div>
                             <div class="input_field">
-                                <input type="text" placeholder="Phone" id="phone"></input>
+                                <input type="text" placeholder="Phone" id="phone" required></input>
                             </div>
                             <div class="input_field">
-                                <input type="text" placeholder="Email" id="email"></input>
+                                <input type="text" name="email" placeholder="Email" id="email" required></input>
                             </div>
                             <div class="input_field">
-                                <textarea placeholder="Message" id="message"></textarea>
+                                <textarea name="message" placeholder="Message" id="message" required></textarea>
                             </div>
                             <div class="btn2">
                                 <input type="submit"></input>

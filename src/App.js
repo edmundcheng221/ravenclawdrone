@@ -11,7 +11,7 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <body id="whole">
+      // <body id="whole">
         <div className="App">
           <Navbar />
           <Slider />
@@ -20,7 +20,7 @@ class App extends Component {
           <Contact />
           <Footer />
         </div>
-      </body>
+      // </body>
     );
   }
 }

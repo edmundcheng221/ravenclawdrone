@@ -6,10 +6,10 @@ class Footer extends Component {
         return(
             <section id="footerbody">
                 <div className="social">
-                    <a href="https://www.facebook.com"><i class="fab fa-facebook"></i></a>
-                    <a href="https://www.instagram.com"><i class="fab fa-instagram"></i></a>
-                    <a href="https://www.linkedin.com"><i class="fab fa-linkedin"></i></a>
-                    <a href="https://www.github.com"><i class="fab fa-github"></i></a>
+                    <a href="https://www.facebook.com"><i className="fab fa-facebook"></i></a>
+                    <a href="https://www.instagram.com"><i className="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com"><i className="fab fa-linkedin"></i></a>
+                    <a href="https://www.github.com"><i className="fab fa-github"></i></a>
                 </div>
                 <br></br>
                 <div id="footercaption">

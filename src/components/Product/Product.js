@@ -14,7 +14,7 @@ class Product extends Component {
                         <li>Drone made out of carbon fiber</li>
                         <li>Soft Robotic gripper made from ecoflex</li>
                         <li>Actuated channels allow for the gripping of objects</li>
-                        <img id="image" src={require('../img/layoutGripper.png')}></img>
+                        <img alt="gripper" id="image" src={require('../img/layoutGripper.png')}></img>
                     </div>
                     {/* <div>
                         

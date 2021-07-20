@@ -5,8 +5,8 @@ class Slider extends Component {
     render(){
         return(
 
-            <section class="section-a" id="section-a">
-                <div class="container">
+            <section className="section-a" id="section-a">
+                <div className="container">
                     <div>
                         <h1>Contactless Delivery Drone</h1>
                         <p>
@@ -14,9 +14,9 @@ class Slider extends Component {
                             to develop a contactless delivery drone that is capable of gripping
                             and transporting ireegularly shaped payloads.
                         </p>
-                        <a href="#" class="btn">Contact Us</a>
+                        <a href="#body" className="btn">Contact Us</a>
                     </div>
-                    <img src={require('../img/drone.png')}></img>
+                    <img alt="drone" src={require('../img/drone.png')}></img>
                 </div>
                 <br></br>
                 <br></br>

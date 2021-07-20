@@ -1,3 +1,5 @@
+You can view my deployed project [here](https://ravenclawdrone.herokuapp.com/). Source code can be found [here](https://github.com/edmundcheng221/ravenclawdrone).
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
